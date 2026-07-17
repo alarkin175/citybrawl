@@ -1,5 +1,4 @@
 {
   "version": 2,
-  "cleanUrls": false,
-  "buildCommand": "echo 'static site'"
+  "cleanUrls": false
 }
