@@ -1,10 +1,5 @@
 {
   "version": 2,
-  "cleanUrls": true,
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/citybrawl.html"
-    }
-  ]
+  "cleanUrls": false,
+  "buildCommand": "echo 'static site'"
 }
